@@ -1,0 +1,6 @@
+framework module Pods_iMathTests {
+  umbrella header "Pods-iMathTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

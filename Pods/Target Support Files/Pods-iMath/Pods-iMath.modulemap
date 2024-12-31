@@ -1,0 +1,6 @@
+framework module Pods_iMath {
+  umbrella header "Pods-iMath-umbrella.h"
+
+  export *
+  module * { export * }
+}
